@@ -1,0 +1,9 @@
+root@kali:~/Desktop/System Programming# cc Program.c 
+root@kali:~/Desktop/System Programming# ./a.out
+Enter any Expresion: A=(b+6)/10
+You entered the Expression as A=(b+6)/10
+Length of String is 10
+The Capital Letters are: A
+The Small Letters are: b
+The Numbers are: 610
+The Operators are: =(+)/
